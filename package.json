@@ -1,0 +1,23 @@
+{
+  "name": "westmont-agency",
+  "version": "1.0.0",
+  "description": "Westmont Agency - Premium marketing for restaurants and barber shops",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymp9cyz85h-sys/westmont-agency-.git"
+  },
+  "keywords": ["marketing", "agency", "restaurants", "barbers"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymp9cyz85h-sys/westmont-agency-/issues"
+  },
+  "homepage": "https://github.com/ymp9cyz85h-sys/westmont-agency-#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
